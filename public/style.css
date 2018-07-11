@@ -1,0 +1,18 @@
+#content {
+    margin-bottom: 4em;
+  }
+  
+  .ui.dividing.header {
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+  
+  i.icon {
+    margin: 0;
+  }
+
+  .items{display:flex; flex-direction:row; flex-basis: auto; background-color: #ffffcc; border:1px beige;border-style: inset;}
+  .item{width:50%; vertical-align: middle;  }
+  .pTxt{vertical-align: middle; padding-top: 16px;}
+  .questionItem{width:50%; vertical-align: middle; padding-top: 16px; }
+  .buttons{ vertical-align: middle; margin-top: 2px; padding-top: 16px; }
